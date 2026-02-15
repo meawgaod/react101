@@ -5,7 +5,7 @@ import { faPython } from '@fortawesome/free-brands-svg-icons'
 
 const Contact = () => {
     return(
-         <div className='flex items-end ml-2 gap-2 text-2xl'>
+         <div className='flex items-end gap-3 text-2xl'>
               <FontAwesomeIcon className='hover:scale-125 hover:text-primaryTitle transition-all' icon={faGoogle} />
               <FontAwesomeIcon className='hover:scale-125 hover:text-primaryTitle transition-all' icon={faSquareInstagram} />
               <FontAwesomeIcon className='hover:scale-125 hover:text-primaryTitle transition-all' icon={faPython} />
